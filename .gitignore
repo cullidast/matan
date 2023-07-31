@@ -1,0 +1,6 @@
+#Emacs buckup files
+*~
+#Emacs auto-save files
+.#*
+#Emacs directory files
+/.emacs.d/
