@@ -8,7 +8,9 @@
 
 - [Задача 2](problems/problem2.py): 
 
-- [Задача 3](problems/problem3.py): 
+- [Задача 3](problems/problem3.py):
+
+- [Задача 4](problems/problem3.py): 
 
 ...
 
@@ -19,3 +21,5 @@
 - [Решение 2](solutions/solution2.py): Решение задачи 2.
 
 - [Решение 3](solutions/solution3.py): Решение задачи 3.
+
+- [Решение 4](solutions/solution3.py): Решение задачи 3.
